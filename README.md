@@ -1,3 +1,4 @@
+![Screenshot 2024-12-26 162439](https://github.com/user-attachments/assets/ffb64019-5504-465a-822a-a8a2677e8106)
 Simple Calculator
 --------------------------------
 This project is a Simple Calculator designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It is a lightweight, responsive web-based calculator with a clean and intuitive interface.
